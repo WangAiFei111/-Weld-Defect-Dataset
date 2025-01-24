@@ -1,0 +1,26 @@
+    <annotation>
+        <folder>VOC</folder>
+        <filename>IMG-20-952.jpg</filename>
+        <source>
+            <database>Database</database>
+        </source>
+        <size>
+            <width>800</width>
+            <height>800</height>
+            <depth>3</depth>
+        </size>
+        <segmented>0</segmented>
+        <object>
+        <name>Not_fully_soldered</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>193</xmin>
+            <ymin>2</ymin>
+            <xmax>474</xmax>
+            <ymax>796</ymax>
+        </bndbox>
+    </object>
+        </annotation>
+    
